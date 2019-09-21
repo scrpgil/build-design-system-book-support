@@ -1,1 +1,10 @@
-# build-design-system-book-support
+# 「ゼロから始めるデザインシステム」サポートページ
+
+このリポジトリは「ゼロから始めるデザインシステム」のサポートページです。  
+本書の質問、誤字＆脱字に対する回答を乗せていくページです。  
+
+## 連絡先
+
+本書に対する質問はこのリポジトリのissueか以下のTwitterIDにお願いします。  
+
+[@scrpgil](https://twitter.com/scrpgil/)
